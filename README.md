@@ -44,4 +44,3 @@ git clone https://github.com/athaleyahw/Expense-Analyzer-.git
 - You can update `expenses.csv` with your own data to test different monthly expenses.
 - The program automatically calculates total spending and category breakdowns.
 
-## Sample Output
